@@ -20,7 +20,7 @@ git add intro.txt >> intro.txt added to staging area
 
 git add .  >> all files added to staging area
 
- git coomit -m "any first commit"
+ git commit -m "my first commit"
 
  git push -u
   git clone "/repository url //" for cloning  a repository from git hub
